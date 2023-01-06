@@ -1,0 +1,19 @@
+---
+title: "About"
+image: logo.png
+about:
+  template: jolla
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/people/NABC/100067972037128
+    - icon: github
+      text: Github
+      href: https://github.com/nabc-oae
+
+---
+
+ศูนย์ข้อมูลเกษตรแห่งชาติ

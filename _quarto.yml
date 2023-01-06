@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NABC Blog"
+  favicon: logo.png
+  search: true
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/nabc-oae
+      - icon: facebook
+        href: https://www.facebook.com/people/NABC/100067972037128
+      # - icon: twitter
+        # href: https://twitter.com
+format:
+  html:
+    theme: Litera
+    css: styles.css
+
+
+
