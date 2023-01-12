@@ -5,7 +5,8 @@ project:
 website:
   title: "NABC Blog"
   favicon: logo.png
-  search: true
+  search:
+    type: textbox
   navbar:
     right:
       - about.qmd
@@ -19,6 +20,7 @@ format:
   html:
     theme: Litera
     css: styles.css
-
-
+    toc: true
+    code-copy: true
+    code-overflow: wrap
 
