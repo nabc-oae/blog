@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "ศูนย์ข้อมูลเกษตรแห่งชาติ"
+    "text": "ศูนย์ข้อมูลเกษตรแห่งชาติ (National Agricultural Big Data Center: NABC)\nศูนย์ข้อมูลเกษตรแห่งชาติ (ศกช.) เป็นหน่วยงานในสังกัดสำนักงานเศรษฐกิจการเกษตร กระทรวงเกษตรและสหกรณ์ มีภาระหน้าที่ เป็นศูนย์ข้อมูลด้านเกษตรของประเทศไทย ให้บริการข้อมูลที่เกี่ยวข้องกับภาคเกษตรตลอดโซ่อุปทาน ครอบคลุมข้อมูลทุกมิติ ตั้งแต่เกษตรกร การผลิต การตลาด ตลอดจนทรัพยากรธรรมชาติและสิ่งแวดล้อม\n\n\nความตั้งใจ\nBlog เผยแพร่บทความ องค์ความรู้เกี่ยวกับข้อมูลหรือดาต้า เพื่อเป็นส่วนหนึ่งในการเสริมสร้างความรู้ความเข้าใจเกี่ยวกับข้อมูล ตั้งแต่การทำธรรมาภิบาลข้อมูล การบริหารจัดการข้อมูล การวิเคราะห์ข้อมูล ตลอดจนการนำเสนอข้อมูล"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NABC Blog",
     "section": "",
-    "text": "ใครเป็นใครในทีมดาต้า\n\n\n\n\n\n\n\ndata\n\n\ndata scientist\n\n\ndata engineer\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nกัญญ์วรา อื้อเทียน\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nELT vs ETL\n\n\n\n\n\n\n\ndata\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nปิยยุทธ จิตต์จำนงค์\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "ใครเป็นใครในทีมดาต้า\n\n\n\n\n\n\n\ndata\n\n\ndata scientist\n\n\ndata engineer\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nกัญญ์วรา อื้อเทียน\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nELT vs ETL\n\n\n\n\n\n\n\ndata\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nปิยยุทธ จิตต์จำนงค์\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/data-team/index.html#บทบาท",
@@ -56,17 +56,17 @@
     "text": "ทักษะ"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "roadmap.html",
+    "href": "roadmap.html",
+    "title": "NABC Blog",
+    "section": "",
+    "text": "blog สำหรับเผยแพร่บทความเกี่ยวกับข้อมูล - Data Governance - Data Analytics -"
   }
 ]
