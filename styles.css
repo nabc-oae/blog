@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400&display=swap');
 
 
-body{
+body, p{
   font-family: 'Bai Jamjuree', sans-serif;
 }
 
